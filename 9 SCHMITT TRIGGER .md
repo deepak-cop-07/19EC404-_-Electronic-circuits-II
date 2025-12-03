@@ -1,4 +1,4 @@
-## Exp. No. 9
+# Exp. No. 9
 **Date:**  
 
 ## SCHMITT TRIGGER USING LTSPICE
@@ -13,4 +13,3 @@
 
 
 # Result
-
