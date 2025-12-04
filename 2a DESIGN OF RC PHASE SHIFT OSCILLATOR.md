@@ -18,13 +18,13 @@
 |  5.1V          |  3.20us            |   3.12KHz                   |   5.8KHz                     |
 
 # Graph
-![WhatsApp Image 2025-11-23 at 13 14 50_617c69c9](https://github.com/user-attachments/assets/f53154ae-3d67-4249-85c9-70da66f843d6)
+![WhatsApp Image 2025-12-04 at 10 24 13_46f6d858](https://github.com/user-attachments/assets/79c09973-ad6d-42a8-b9ef-5e6ff0ade466)
 
 
 
 # Sample images 
 
-![WhatsApp Image 2025-11-23 at 13 14 45_0e91376d](https://github.com/user-attachments/assets/c385e688-b185-438b-9387-15ab2783c4bd)
+![WhatsApp Image 2025-12-04 at 10 24 26_2c3b632c](https://github.com/user-attachments/assets/ed69c06e-1b4f-47c0-aed6-06a0689df495)
 
 
 # Result
