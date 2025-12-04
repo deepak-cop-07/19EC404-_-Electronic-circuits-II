@@ -20,12 +20,13 @@
 
 # Graph
 
-![WhatsApp Image 2025-11-23 at 13 28 15_5dea042b](https://github.com/user-attachments/assets/6fcd8914-b17f-4135-8fcd-edcdaf5bb5e3)
+https://github.com/deepak-cop-07/19EC404-_-Electronic-circuits-II/blob/main/3a%20DESIGN%20OF%20HARTLEY%20OSCILLATOR.md
 
 
 
 # Sample images 
-![WhatsApp Image 2025-11-23 at 13 27 50_7eb0204e](https://github.com/user-attachments/assets/efe24f7d-c8a8-48aa-82a5-dfd9f6461e72)
+![WhatsApp Image 2025-12-04 at 10 32 37_0d236d1c](https://github.com/user-attachments/assets/ce4e100e-3ae8-4c90-aff3-67e8a1c1cecd)
+
 
 
 
