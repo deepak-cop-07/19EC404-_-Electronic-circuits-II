@@ -16,12 +16,13 @@
 
 # Tabulation
 
-<img width="527" height="541" alt="image" src="https://github.com/user-attachments/assets/cd40e4f5-c5a7-4393-baf2-aaecd0739e58" />
+![WhatsApp Image 2025-12-04 at 10 17 41_0f089970](https://github.com/user-attachments/assets/8e4b3f46-665c-48c2-98e4-5ea53261a1f6)
+
 
 
 # Graph
 
- ![WhatsApp Image 2025-11-23 at 12 40 09_484cd602](https://github.com/user-attachments/assets/c28d5e00-8f5f-4633-bf82-5b4a2a2a078f)
+![WhatsApp Image 2025-12-04 at 10 17 27_57ee1146](https://github.com/user-attachments/assets/a60da5f9-a1fa-4a07-a5e6-67196a5363ac)
 
 
 # Sample images 
