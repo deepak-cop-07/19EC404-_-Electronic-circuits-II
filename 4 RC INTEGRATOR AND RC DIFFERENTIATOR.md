@@ -1,4 +1,4 @@
- ## Exp. No. 4
+9iik, ## Exp. No. 4
 **Date:**  15.11.25
 
 ## RC INTEGRATOR AND RC DIFFERENTIATOR
@@ -21,20 +21,23 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
-![WhatsApp Image 2025-11-23 at 13 45 04_aea78d2b](https://github.com/user-attachments/assets/cabb5c03-0aa8-4f37-b845-7346e86e00e3)
+![WhatsApp Image 2025-12-04 at 10 38 20_760625e1](https://github.com/user-attachments/assets/08cfeaab-5ed7-4953-8a15-cf67178330f9)
 
 
 
 # Graph
-![WhatsApp Image 2025-11-23 at 13 46 05_88ab308a](https://github.com/user-attachments/assets/4d55dd3d-85a7-4809-894a-246b5d2327f6)
+![WhatsApp Image 2025-12-04 at 10 36 39_307b22c6](https://github.com/user-attachments/assets/2e97ba0a-fb4d-41af-95b2-dda3e61ca8c9)
 
-![WhatsApp Image 2025-11-23 at 13 46 18_4c453b51](https://github.com/user-attachments/assets/8b8b005e-0e3b-415f-a991-e65d95081bd7)
+
+![WhatsApp Image 2025-12-04 at 10 37 03_e2bd83bc](https://github.com/user-attachments/assets/2b7bc47a-2c59-4bea-8b57-b323fa6d85db)
+
 
 
 # Sample images 
-![WhatsApp Image 2025-11-23 at 13 47 36_03c57ff8](https://github.com/user-attachments/assets/0f9201c8-f01d-40c2-8a29-f7b771a40fde)
+![WhatsApp Image 2025-12-04 at 10 36 40_c18cacbb](https://github.com/user-attachments/assets/5f20b5ed-a36f-4710-948b-64f092d5557b)
 
-![WhatsApp Image 2025-11-23 at 13 48 00_f3edb249](https://github.com/user-attachments/assets/cac52848-0607-4655-9ba0-1f0dab76645f)
+![WhatsApp Image 2025-12-04 at 10 37 07_ea883260](https://github.com/user-attachments/assets/512cc548-9a53-4d10-962e-5206531cae00)
+
 
 
 # Result
