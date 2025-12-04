@@ -20,14 +20,14 @@
 
 # Graph
 
-![WhatsApp Image 2025-12-04 at 10 27 32_7982688b](https://github.com/user-attachments/assets/3f06c9f6-d23d-438f-825c-49d3f23ece95)
+![WhatsApp Image 2025-12-04 at 10 30 41_50b4c954](https://github.com/user-attachments/assets/e1bb822f-bf69-4079-aa3e-95ceb18a59b2)
 
 
 
 
 # Sample images 
 
-![WhatsApp Image 2025-12-04 at 10 28 11_5162dd3a](https://github.com/user-attachments/assets/896652ef-0894-4b0e-b1f2-be6a9f0d9479)
+![WhatsApp Image 2025-12-04 at 10 30 44_dee7c476](https://github.com/user-attachments/assets/71a4c716-b513-409d-af1a-904e5a759312)
 
 
 
