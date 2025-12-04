@@ -19,11 +19,12 @@
 |   6V         |   10us           |   104.49KHz                   |     100KHz   |
 
 # Graph
-![WhatsApp Image 2025-11-23 at 13 39 03_9bed7648](https://github.com/user-attachments/assets/00ccd626-7110-4da6-b017-c8a4de1e44c2)
+![WhatsApp Image 2025-12-04 at 10 34 27_87144bc5](https://github.com/user-attachments/assets/ef4683e1-af44-41b7-9ddb-4bba865592f3)
+
 
 
 # Sample images 
-![WhatsApp Image 2025-11-23 at 13 39 01_635a6a9d](https://github.com/user-attachments/assets/5908a769-d041-4d61-92ea-1d5fefa355f3)
+![WhatsApp Image 2025-12-04 at 10 34 34_8387fa44](https://github.com/user-attachments/assets/07b9c647-9637-4d2f-95ad-d962cde197f9)
 
 
 
